@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleApple from '@/components/navbar/NavbarStyleApple/NavbarStyleApple';
@@ -183,7 +183,6 @@ export default function FireGuardPage() {
               imageAlt: "Robert Kim"
             }
           ]}
-          gridVariant="three-columns-all-equal-width"
           textboxLayout="default"
           animationType="slide-up"
         />
